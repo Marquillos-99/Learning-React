@@ -64,11 +64,17 @@ form {
   flex-direction: column;
 }
 
+textarea {
+  font-family: inherit;
+  margin-bottom: 8px;
+  padding-left: 7px;
+}
+
 form input {
   border: 1px solid #ccc;
   border-radius: 2px;
   padding: 4px 6px;
-  margin: 0px 4px;
+  margin: 0 0 4px;
 }
 
 button {
